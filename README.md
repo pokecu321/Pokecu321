@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##HI EVERYONE 👋 ,
-###My name is Muhammad saifuddin 😀
+## HI EVERYONE 👋 ,
+### My name is Muhammad saifuddin 😀
 
 # 💫 About Me:
  <br>ABOUT ME<br>- 🔭 I’m currently study in SMKN 1 BOYOLANGU <br>- 🌱 I’m currently learning c++<br>- 👾 I want to be back end developer <br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: I like programming 
